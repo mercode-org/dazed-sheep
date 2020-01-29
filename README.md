@@ -16,4 +16,4 @@ A cool collection of MerVoxels and dazed-sheep plugins, note that some flying-sq
 
 Before running it is recommended that you configure the server in `config/settings.json`
 
-`update.sh` and `start.sh`
+`build.sh` and `start.sh`
